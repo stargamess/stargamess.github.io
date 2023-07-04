@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!--To Accsess a this on your browser go to http://stargamess.github.io/code/"the file you want to accses its code."-->
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -35,13 +34,3 @@
         <p>Karaoke Karaoke Super Star is karaoke but its a game. It works on Karaoke Super Star but it also works on Dance Karaoke Super Star, 3 in 1. As well as working on regular range, it also works on our backpack range, however it does not work on the Micro Range. It has the same multiplayer connectivity as Dance Dance Super Star.</p>
     </div>
     <div id="DanceKaraokeSuperStar">
-       <div class="mid"><h3>Dance Kareoke Super Star</h3></div>
-       <P>Dance Kareoke Super Star is a mix of our first 2 games. it is only avalible on Dance Karaoke Super Star 3 in 1 aswell as its backpack edition. It has multiplayer capability, thought being in its beta its not recommended</P> 
-    </div>
-    <div id="DanceDanceSuperStarPC">
-        <div class="mid"><h3>Dance Dance Super Star - PC</h3></div>
-        <p>Like it sounds in the name, Its a vesion of Dance Dance Super Star but it uses the keyboard as its controls</p>
-    </div>
-    <div id="link2" class="mid"><a href="StarCommercial.html"><p>Star Commercial</p></a></div>
-</body>
-</html>

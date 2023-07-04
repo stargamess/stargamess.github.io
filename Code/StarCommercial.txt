@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Star Commercial</title>
+        <link rel="stylesheet" href="Style.css">
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+    </head>
+    <body> 
+        <div class="mid">
+        <h1 id="title">Welcome To Star Commercial</h1></div>
+        <div class="mid"><h2 >What is Star Commercial</h2></div>
+        <div id="Machine">
+        <p>Star Commercial is the sister company to Star Games S. They make the games, we make the Machines. Some of our mechines iclude</p>
+        <ul>
+            <li>Dance karaoke 3 in 1 </li>
+            <li>Dance Super Star</li>
+            <li>karaoke Super Star</li>
+            <li>Dance karaoke 3 in 1, Backpack</li>
+            <li>Dance Super Star, Backpack</li>
+            <li>karaoke Super Star, Backack</li>
+            <li>Dance Super Star, Micro</li>
+            <li>Dance Super Star Whole hand, Micro</li>
+            <li>Dance Super Star 2 Hands</li>
+        </ul>
+            <p>We were founded in 2023 by Max McLean who after descovering acade Machines prices, wanted to make cheap yet good quality Machinens Machinens. Our company is primary located on the  right part of step 5. Every Machines is designed, coded, tested and made my Max, even this website was made my Max.</p>
+        </div>
+        <div class="mid"><h2>Products</h2></div>
+        <div id="RR">
+        <h3>Our Regular Range</h3>
+        <h4>Primarily used in arcades, designed not for home use.</h4>
+        <ul>
+            <li>$450 Dance karaoke 3 in 1 - The Machine that can play exclusivly Dance Dance Kareoke but can also play our other games.</li>
+            <li>$300 Dance Super Star - Made For Dance Dance Super Star giving it an extra pop</li>
+            <li>$300 Karaoke Super Star -  Made For Karaoke Karaoke Super Star giving it an extra pop</li>
+        </ul>
