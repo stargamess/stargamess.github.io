@@ -1,4 +1,4 @@
-let ds = 6
+let ds 
 document.getElementById("cbt").onclick = function(){
     ds = Number(window.prompt("How Many Sides Shoud The Dice Have?"))
 }
